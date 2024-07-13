@@ -1,2 +1,2 @@
 # Tea
-First thing to build from scratch
+First project to build from scratch, a Codecademy assignment
